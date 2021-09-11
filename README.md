@@ -57,6 +57,7 @@ Roughly sorted from newest to oldest. But some posts have no date, get updated s
 
 - [ReScript Tutorial by protoship.io](https://github.com/protoship/rescript-tutorial)
 - [ReScript GraphQL Tutorial by hasura](https://hasura.io/learn/graphql/rescript-react-apollo/introduction/)
+- [Using Rescript to build applications on AWS Lambda](https://www.chrisarmstrong.dev/posts/rescript-on-aws-lambda)
 
 ### Talks, Videos, Livestreams
 
